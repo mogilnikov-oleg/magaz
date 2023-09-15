@@ -1,1 +1,1 @@
-# magaz
+# magaz-by-mogila
